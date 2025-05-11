@@ -1,0 +1,20 @@
+#name {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding:10px;
+    font-size: 40px;
+}
+
+#title {
+    border: 1px solid black;
+        border-width: 0px 0px 1px 0px;
+}
+#profile_pic {
+    position: relative;
+    top: -30px; 
+    float: right;
+    height: 100px;
+
+}
+
